@@ -9,8 +9,8 @@
     "origins": ["localhost:2222"],
   },
   "user": {
-    "name": admin,
-    "password": chenli12,
+    "name": "admin",
+    "password": "chenli12",
     "privatekey": null,
     "overridebasic": false
   },
