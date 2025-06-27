@@ -1,7 +1,7 @@
 {
   "listen": {
     "ip": "0.0.0.0",
-    "port": 2224
+    "port": 2222
   },
   "socketio": {
     "serveClient": false,
@@ -11,8 +11,7 @@
   "user": {
     "name": "admin",
     "password": "chenli12",
-    "privatekey": null,
-    "overridebasic": false
+    "overridebasic": true
   },
   "ssh": {
     "host": null,
