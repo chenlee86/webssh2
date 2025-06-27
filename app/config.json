@@ -6,7 +6,7 @@
   "socketio": {
     "serveClient": false,
     "path": "/ssh/socket.io",
-    "origins": ["localhost:2222"],
+    "origins": ["localhost:8080"],
   },
   "user": {
     "name": "admin",
